@@ -1,4 +1,4 @@
-# Assignment 3 – ANN with Forward and Backpropagation
+# Assignment 3 – Implement forward propagation and backpropagation using TensorFlow/Keras. Analyze the effect of different learning rates and the number of epochs on model performance.
 
 This assignment demonstrates the working of a neural network by implementing **forward propagation and backpropagation** using TensorFlow.
 

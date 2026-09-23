@@ -1,4 +1,4 @@
-# Assignment 2 – Wine Classification using ANN
+# Assignment 2 – Design and implement a Multilayer Perceptron (MLP) for classification of the Iris or Wine dataset, and evaluate its performance using accuracy and a confusion matrix.
 
 This assignment builds a **multi-class Artificial Neural Network (ANN)** to classify wine samples into three different classes.
 

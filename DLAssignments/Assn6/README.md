@@ -1,4 +1,4 @@
-# Assignment 6 – Tomato Leaf Disease Classification using CNN
+# Assignment 6 – Design and implement a Convolutional Neural Network (CNN) for image classification using the Tomato or Soybean disease dataset.
 
 This assignment develops a **Convolutional Neural Network (CNN)** for classifying tomato leaf diseases from images.
 

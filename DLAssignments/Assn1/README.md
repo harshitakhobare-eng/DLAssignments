@@ -1,4 +1,4 @@
-# Assignment 1 – Diabetes Prediction using ANN
+# Assignment 1 – Install and configure TensorFlow/Keras in Google Colab. Perform data preprocessing, normalization, train-test splitting, and data visualization on a sample dataset. 
 
 This assignment implements a **feed-forward Artificial Neural Network (ANN)** using TensorFlow/Keras to predict diabetes outcomes.
 
