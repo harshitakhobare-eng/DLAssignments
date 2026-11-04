@@ -1,4 +1,4 @@
-# BERT-Based Sentiment Analysis
+# 8. Implement a pre-trained BERT model for sentiment analysis or text classification on a sample dataset.
 
 ## 1. Project Overview
 
