@@ -1,4 +1,4 @@
-# RNN vs LSTM vs GRU for Sequence Classification
+# 5. Implement and compare RNN, LSTM, and GRU models for sequence classification, and analyze their performance using appropriate evaluation metrics.
 
 ## 1. Project Overview
 
